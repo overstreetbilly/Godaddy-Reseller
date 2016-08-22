@@ -1,0 +1,1535 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:54:39Z</Created>
+  <LastSaved>2016-08-22T21:54:39Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="147" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6413</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6415</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6416</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6418</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6414</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6424</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6425</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6427</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6401</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6403</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6404</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6406</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7413</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7415</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7416</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7418</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7414</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7424</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7425</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7427</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7401</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7403</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7404</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7406</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271865</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1GB Total/1Box) - US Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276601</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276602</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276604</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271866</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5Boxes) - US Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276611</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276612</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">276614</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">759</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">761</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">762</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">764</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271880</Data></Cell>
+    <Cell><Data ss:Type="String">5 Email Forwarding Accounts</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6635</Data></Cell>
+    <Cell><Data ss:Type="String">Email Storage Upgrade (1000 MB Total)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">564289</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Add 1 Additional Address (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">774</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Add 5 Additional Addresses (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16413</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16415</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16416</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16417</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16418</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16419</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16420</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16421</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16422</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">160.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16423</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - EU Region - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">178.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16414</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16424</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16425</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16426</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16427</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16428</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 6 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">215.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16429</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 7 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16430</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 8 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16431</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 9 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">322.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16432</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - EU Region - Renewal - 10 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">358.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16401</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16403</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16404</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16405</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16406</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16407</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16408</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16409</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16410</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16402</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - EU Region - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17413</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17415</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17416</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17417</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17418</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17419</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 6 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17420</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 7 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17421</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 8 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17422</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 9 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">160.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17423</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - AP Region - Renewal - 10 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">178.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17414</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17424</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17425</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17426</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17427</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17428</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 6 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">215.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17429</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 7 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17430</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 8 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17431</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 9 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">322.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17432</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - AP Region - Renewal - 10 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">358.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17401</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17403</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17404</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17405</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17406</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17407</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 6 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17408</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 7 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17409</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 8 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17410</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 9 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17402</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - AP Region - Renewal - 10 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281865</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">23.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286601</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286602</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286603</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286604</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286605</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286606</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286607</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286608</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">160.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">214.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286609</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Personal (1 GB Total/1 Box) - US Region - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">178.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">238.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281866</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286611</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">71.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286612</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286613</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286614</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286615</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">215.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286616</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286617</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286618</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">322.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286619</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Business (2 GB Total/5 Boxes) - US Region - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">358.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10759</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">47.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10761</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">95.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10762</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10763</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10764</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10765</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10766</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10767</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10773</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">430.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">538.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10760</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Unlimited Business (Unlimited Business Storage) - US Region - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">598.80</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281880</Data></Cell>
+    <Cell><Data ss:Type="String">5 Email Forwarding Accounts  - Renewal</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1.07</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16635</Data></Cell>
+    <Cell><Data ss:Type="String">Email Storage Upgrade (1000 MB Total) - Renewal</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">564290</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Add 1 Additional Address (recurring) - Renewal</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">10774</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Add 5 Additional Addresses (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281869</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286621</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 2 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286622</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 3 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">85.47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286623</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 4 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">113.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286624</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 5 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">134.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286625</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 6 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286626</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 7 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">188.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286627</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 8 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">215.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286628</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 9 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">242.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">286629</Data></Cell>
+    <Cell><Data ss:Type="String">Email - Premium (2 GB/100 Boxes) - Renewal - 10 Years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">254.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281864</Data></Cell>
+    <Cell><Data ss:Type="String">Premium Plus Email (2 GB/500 Boxes) - Renewal (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>13</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

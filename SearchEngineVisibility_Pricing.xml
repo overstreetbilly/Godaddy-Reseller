@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:58:25Z</Created>
+  <LastSaved>2016-08-22T21:58:26Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="22" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271401</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">19.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">19.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271412</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">39.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">39.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271413</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">52.72</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271414</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">70.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">79.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">79.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271415</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271416</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 6 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271417</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 7 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">116.57</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271418</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 8 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">133.19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271419</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 9 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.81</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">271420</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - 10 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">155.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281401</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">19.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">19.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281412</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">35.23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">39.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">39.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281413</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">52.72</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281414</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">70.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">79.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">79.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281415</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281416</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 6 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281417</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 7 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">116.57</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281418</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 8 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">133.19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281419</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 9 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.81</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.91</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">281420</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility v1 - Renewal - 10 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">155.93</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R22C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

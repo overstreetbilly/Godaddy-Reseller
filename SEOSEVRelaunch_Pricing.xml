@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:59:42Z</Created>
+  <LastSaved>2016-08-22T21:59:42Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455101</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Monthly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455106</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Quarterly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">20.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">20.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455109</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Semi-Annual</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455104</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - 1 Year</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455113</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - 2 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455116</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - 3 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455119</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - 4 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455122</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - 5 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455102</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - Monthly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455107</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - Quarterly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">20.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">20.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455110</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - Semi-Annual</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455105</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - 1 Year</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">83.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455114</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - 2 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">167.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455117</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - 3 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455120</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - 4 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">455123</Data></Cell>
+    <Cell><Data ss:Type="String">Search Engine Visibility - Renewal - 5 Years</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5.59</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>11</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
