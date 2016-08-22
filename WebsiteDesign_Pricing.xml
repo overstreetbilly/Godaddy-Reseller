@@ -1,0 +1,1174 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:25:20Z</Created>
+  <LastSaved>2016-08-22T21:25:20Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="111" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2331</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 Page Design (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2337</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 Page Design (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6525</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 Page Design (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6520</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 Page Design - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6521</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 Page Design - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2333</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2339</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6545</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6540</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1025.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1025.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1025.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6541</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2340</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 5 Page Design (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2343</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 Page Design (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2351</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 Page Design (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2346</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 Page Design - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">341.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">341.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">341.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2347</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 Page Design - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2342</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2345</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2363</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2358</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">615.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">615.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">615.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2359</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1166.18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1166.18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1166.18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">855</Data></Cell>
+    <Cell><Data ss:Type="String">Custom FaceBook Design + 15min  - monthly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1020</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1021</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1022</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1023</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1024</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1030</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1032</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1033</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1034</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1040</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1041</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1042</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1043</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1044</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1060</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1061</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1062</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1063</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1064</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12331</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12337</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16525</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16520</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16521</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16522</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1619.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16523</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2159.56</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16524</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 5 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12332</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12338</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16535</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16530</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">797.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">839.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">839.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16531</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1511.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1679.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1679.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16532</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2267.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2519.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2519.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16533</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3023.56</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3359.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3359.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16534</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 10 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3779.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4199.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4199.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12333</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12339</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">269.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16545</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16540</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1025.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16541</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2159.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2159.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16542</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2915.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3239.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3239.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16543</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3887.56</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4319.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4319.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16544</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design with Updates - 20 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4859.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5399.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5399.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12340</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12351</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12343</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12346</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">341.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12347</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12348</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">971.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12349</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1295.56</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12350</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 5 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1619.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12341</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 10 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">41.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12357</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 10 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12344</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 10 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12352</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 10 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">478.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">503.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">503.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12353</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 10 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">906.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1007.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1007.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12354</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 10 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1360.47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1511.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1511.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12355</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 10 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1813.96</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2015.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2015.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12356</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 10 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2267.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2519.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2519.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12342</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 20 pg Design - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">53.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12345</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design  - 20 pg Design - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">161.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12363</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12358</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">615.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">647.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12359</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1166.18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1295.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1295.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12360</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1749.27</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1943.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12361</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal - 4 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2332.36</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2591.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2591.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">12362</Data></Cell>
+    <Cell><Data ss:Type="String">Web Site Design - 20 pg Design - Renewal - 5 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2915.46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3239.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">856</Data></Cell>
+    <Cell><Data ss:Type="String">Custom FaceBook Design + 15min renewal  - monthly</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">14.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11020</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11021</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11022</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11023</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11024</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standard - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11030</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11031</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11032</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11033</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11034</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Deluxe - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11040</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11041</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11042</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11043</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11044</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Standard - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11060</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - Renewal (monthly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">189.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11061</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - Renewal (quarterly)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">569.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11062</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - Renewal (semiannual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11063</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2279.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11064</Data></Cell>
+    <Cell><Data ss:Type="String">Web Store Design with Updates Standalone Deluxe - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4559.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R111C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

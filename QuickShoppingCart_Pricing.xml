@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:25:50Z</Created>
+  <LastSaved>2016-08-22T21:25:50Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="38" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">270077</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6790</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6791</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6792</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6793</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6794</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Economy Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">270078</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6800</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6801</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">575.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6802</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">755.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6803</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1007.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6804</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Deluxe Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1259.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">270079</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6810</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6811</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">959.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6812</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1259.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6813</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1679.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6814</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart - Premium Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2099.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">280077</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16790</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16791</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">191.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">239.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16792</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">251.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16793</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">335.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16794</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Economy Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">280078</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition -  Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">29.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16800</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">323.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16801</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">575.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16802</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">755.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16803</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1007.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1439.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16804</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Deluxe Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1259.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">280079</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition -  Monthly (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16810</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition - 1 year (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16811</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition - 2 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">959.75</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.76</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16812</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition - 3 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1259.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1799.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16813</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition - 4 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1679.66</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2399.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">16814</Data></Cell>
+    <Cell><Data ss:Type="String">Quick Shopping Cart Renewal - Premium Edition - 5 years (recurring)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2099.58</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2999.40</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R38C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

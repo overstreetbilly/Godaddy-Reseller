@@ -1,0 +1,1725 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Billy Overstreet</Author>
+  <LastAuthor>Billy Overstreet</LastAuthor>
+  <Created>2016-08-22T21:23:48Z</Created>
+  <LastSaved>2016-08-22T21:23:48Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12210</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDDDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Pricing">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="166" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="52.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="446.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MinPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MaxPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RetailPrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SalePrice</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleStart</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SaleEnd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Note: Be sure to save this document in one of the Excel formats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1706</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL (1 Year)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">28.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273604</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">28.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273605</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">57.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273606</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">86.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273617</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273618</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273619</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273601</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273602</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273603</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273614</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273615</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">273616</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">899.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">899.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3645</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) SSL (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3646</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) SSL (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5710</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5711</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5712</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5713</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5714</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5715</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5716</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5717</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5718</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5719</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">197.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">219.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">219.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5720</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">319.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">319.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5721</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">377.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5722</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">557.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5723</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">737.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">819.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">819.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5724</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">917.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1019.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1019.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5725</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1816.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2018.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2018.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5726</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5727</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">263.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">329.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">329.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5728</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5729</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">503.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">629.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">629.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5730</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">743.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">929.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">929.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5731</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">982.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1228.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1228.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5732</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1222.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1528.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1528.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5733</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2421.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3027.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3027.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5790</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5791</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5792</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5793</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5794</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5795</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5796</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5797</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5798</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5799</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5800</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">879.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5801</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1299.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1299.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5802</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1659.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5803</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2179.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2499.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2499.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5804</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3099.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3099.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5805</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5298.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6098.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6098.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5806</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5807</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">794.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1049.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1049.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5808</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1109.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5809</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1424.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1949.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1949.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5810</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2054.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2849.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2849.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5811</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2683.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3748.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3748.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5812</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3313.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4648.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4648.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5813</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6462.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9147.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9147.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543594</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 5 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">279.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543596</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 10 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">439.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">549.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">549.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543601</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 15 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543605</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 20 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">759.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543609</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 30 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543613</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 40 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1399.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543617</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 50 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1719.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543621</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 100 Domains - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3319.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543597</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 5 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">559.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543599</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 10 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">879.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1099.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1099.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543603</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 15 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543607</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 20 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1519.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543611</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 30 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2159.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543615</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 40 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2799.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543619</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 50 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3439.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543623</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 100 Domains - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6639.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">8299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">8299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283604</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">28.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1707</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL (1 Year) - Renewal</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">28.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">49.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283605</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">57.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283606</Data></Cell>
+    <Cell><Data ss:Type="String">Standard SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">86.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283617</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283618</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283619</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Wildcard SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283601</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">89.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283602</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">149.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283603</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283614</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">299.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283615</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">539.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283616</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Wildcard SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">719.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">899.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">899.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283634</Data></Cell>
+    <Cell><Data ss:Type="String">Standard 6-in-1 SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">69.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283635</Data></Cell>
+    <Cell><Data ss:Type="String">Standard 6-in-1 SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">125.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">139.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283636</Data></Cell>
+    <Cell><Data ss:Type="String">Standard 6-in-1 SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">188.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283631</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe High Assurance 6-in-1 SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">249.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">249.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">249.95</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283632</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe High Assurance 6-in-1 SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">449.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.90</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">283633</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe High Assurance 6-in-1 SSL Renewal (3 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.85</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">13645</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) SSL Renewal (1 Year) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">99.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">13646</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) SSL Renewal (2 Years) (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15710</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">59.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15711</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">109.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15712</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">159.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15713</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">209.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15714</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">309.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15715</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">409.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15716</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">509.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15717</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1009.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15718</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">107.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">119.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15719</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">197.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">219.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">219.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15720</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">287.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">319.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">319.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15721</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">377.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">419.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15722</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">557.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15723</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">737.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">819.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">819.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15724</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">917.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1019.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1019.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15725</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1816.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2018.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2018.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15726</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 5 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">143.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">179.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15727</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 10 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">263.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">329.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">329.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15728</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 15 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">383.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15729</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 20 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">503.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">629.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">629.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15730</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 30 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">743.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">929.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">929.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15731</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 40 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">982.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1228.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1228.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15732</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 50 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1222.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1528.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1528.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15733</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Multiple Domain (UCC) SSL Up to 100 Domains - Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2421.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3027.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3027.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15790</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">199.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15791</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.94</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15792</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">499.89</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15793</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">649.84</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15794</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.74</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15795</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1249.64</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15796</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1549.54</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15797</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3049.04</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15798</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">359.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">399.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15799</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">619.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.88</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15800</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">879.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999.78</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15801</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1139.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1299.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1299.68</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15802</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1659.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15803</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2179.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2499.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2499.28</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15804</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3099.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3099.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15805</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">5298.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6098.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6098.08</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15806</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 5 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">479.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.97</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15807</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 10 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">794.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1049.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1049.82</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15808</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 15 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1109.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.67</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15809</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 20 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1424.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1949.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1949.52</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15810</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 30 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2054.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2849.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2849.22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15811</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 40 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2683.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3748.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3748.92</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15812</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 50 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3313.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4648.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4648.62</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15813</Data></Cell>
+    <Cell><Data ss:Type="String">Deluxe (OV) Multiple Domain SAN SSL Up to 100 Domains Renewal - 3 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6462.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9147.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">9147.12</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543595</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 5 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">279.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543600</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 10 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">439.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">549.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">549.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543604</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 15 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">599.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543608</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 20 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">759.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">949.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543612</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 30 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1079.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1349.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543616</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 40 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1399.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1749.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543620</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 50 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1719.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543624</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 100 Domains Renewal - 1 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3319.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4149.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543598</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 5 Domains Renewal - 2 year (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">559.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543602</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 10 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">879.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1099.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1099.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543606</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 15 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1199.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543610</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 20 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1519.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1899.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543614</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 30 Domains Renewal - 2 years(annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2159.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2699.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543618</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 40 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">2799.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3499.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543622</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 50 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">3439.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">4299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">543625</Data></Cell>
+    <Cell><Data ss:Type="String">Premium (EV) Multiple Domain SAN SSL Up to 100 Domains Renewal - 2 years (annual)</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6639.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">999999.99</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">8299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">8299.98</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1/1/2000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>14</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
